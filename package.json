@@ -1,0 +1,25 @@
+{
+  "name": "jimt321-simple-calculator",
+  "version": "1.0.0",
+  "description": "this is simple calculator with typescript",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Engrimtiazahmed/calculator.git"
+  },
+  "author": "Engr Imtiaz Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Engrimtiazahmed/calculator/issues"
+  },
+  "homepage": "https://github.com/Engrimtiazahmed/calculator#readme",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16"
+  }
+}
